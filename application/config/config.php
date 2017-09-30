@@ -13,8 +13,8 @@ $config['menu_choices'] = array(
         array('name' => 'Golf', 'link' => '/golf'),
         array('name' => 'Hotel', 'link' => '/bananas/rule'),
         array('name' => 'India', 'link' => '/india'),
-        array('name' => 'Juliet', 'link' => '#'),
-        array('name' => 'Kilo', 'link' => '#'),
+        array('name' => 'Juliet', 'link' => '/juliet'),
+        array('name' => 'Kilo', 'link' => '/show/2'),
         )
     );
 
